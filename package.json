@@ -71,7 +71,8 @@
 	"jsnext:main": "dist/index.es.js",
 	"files": [
 		"dist",
-		"index.d.ts"
+		"index.d.ts",
+		"rollup.config.js"
 	],
 	"homepage": "https://cogoport.github.io/cogo-toast/",
 	"bugs": {
